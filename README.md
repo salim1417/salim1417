@@ -1,3 +1,5 @@
+# Bienvenue sur mon profil 👋
+
 Je suis étudiant en Master 2 Bases de Données et Intelligence Artificielle à l'Université de Bourgogne.
 Passionné par la technologie, je me concentre sur le développement de solutions innovantes et la gestion des données.
 
